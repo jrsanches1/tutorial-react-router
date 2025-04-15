@@ -1492,7 +1492,7 @@ ts-api-utils@^2.0.1:
     react "^19.0.0"
     react-dom "^19.0.0"
     react-router-dom "^6.4.1"
-    tutorial-react-router "file:C:/Users/Ruy/AppData/Local/Yarn/Cache/v6/npm-tutorial-react-router-0.0.0-e820ac13-a18d-4e24-b1b9-573728316062-1744666150960/node_modules/tutorial-react-router"
+    tutorial-react-router "file:C:/Users/Ruy/AppData/Local/Yarn/Cache/v6/npm-tutorial-react-router-0.0.0-afed17c6-507b-4ab3-9d8d-30c903a752e6-1744746497852/node_modules/tutorial-react-router"
 
 type-check@^0.4.0, type-check@~0.4.0:
   version "0.4.0"

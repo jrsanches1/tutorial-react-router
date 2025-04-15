@@ -4,7 +4,7 @@ import { getInvoices } from "../../data";
 
 export default function Invoices() {
 
-    const invoices = getInvoices();
+    const Invoices = getInvoices();
 
     return (
         <div style={{ display: "flex" }}>
